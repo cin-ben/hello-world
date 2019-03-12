@@ -4,3 +4,4 @@ edit2
 edit3
 
 Added information
+Remove added ex1
