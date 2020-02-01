@@ -12,3 +12,4 @@ local modif
 Mr B added feature X
 I added a feature
 Mr B added feature Y
+Mr B added feature Z
